@@ -43,3 +43,21 @@ nav a:hover {
     font-size: 30px;
     font-weight: bold;
 }
+
+p {
+    text-align: center;
+    font-size: 22px;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    background: #000000;
+    padding: 40px 0;
+}
+
+.copyrights {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
