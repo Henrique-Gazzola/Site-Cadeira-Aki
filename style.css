@@ -44,6 +44,11 @@ nav a:hover {
     font-weight: bold;
 }
 
+#faxada {
+    width: 100%;
+    height: 666;
+}
+
 p {
     text-align: center;
     font-size: 22px;
